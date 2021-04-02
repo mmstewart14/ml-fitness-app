@@ -1,0 +1,87 @@
+1,Dumbell Single Arm Row,back,1,pull
+2,Barbell Bent Over Row,back,1,pull
+3,Lat Pulldown,back,2,pull
+4,Face Pulls,back,1,pull
+5,Pull Ups,back,3,pull
+6,Inverted Row,back,2,pull
+7,Farmer Carry,back,1,pull
+8,Standing Dumbbell Curl,arms,1,pull
+9,Hammer Curl,arms,1,pull
+10,Incline Dumbbell Curl,arms,1,pull
+11,Zottman Curl,arms,2,pull
+12,Decline Dumbbell Curl,arms,1,pull
+13,Chin-Up,arms,2,pull
+14,EZ Bar Curl,arms,2,pull
+15,Underhand Seated Row,arms,2,pull
+16,Curls With Cable Pull,arms,2,pull
+17,Calf Raise,calves,1,legs
+18,Dumbbell Squeeze Press,chest,2,push
+19,Incline Barbell Bench Press,chest,5,push
+20,Incline Dumbbell Bench Press,chest,4,push
+21,Close-Grip Barbell Bench Press,chest,5,push
+22,Decline Push Up,chest,3,push
+23,Cable Fly,chest,2,push
+24,Decline Barbell Bench Press,chest,3,push
+25,Chest Dips,chest,3,push
+26,Push-Up,chest,1,push
+27,Dumbell Fly,chest,3,push
+28,Incline Dumbbell Fly,chest,4,push
+29,Wide Push-Up,chest,2,push
+30,Sumo Deadlift,hamstrings,5,legs
+31,Standard Deadlift,hamstrings,5,legs
+32,Barbell Back Squat,quads,5,legs
+33,Barbell Bench Press,chest,5,push
+34,Goblet Squat,hamstrings,2,legs
+35,Sumo Squat,hamstrings,4,legs
+36,Cable Squat,hamstrings,3,legs
+37,Barbell Hip Thrust,hamstrings,5,legs
+38,Dumbbell Hip Thrust,hamstrings,4,legs
+39,Single Leg Hip Thrust,hamstrings,3,legs
+40,Walking Lunge,hamstrings,4,legs
+41,Hip Adduction,hamstrings,2,legs
+42,Hip Abduction,hamstrings,2,legs
+43,Cable Kick Back,hamstrings,1,legs
+44,Romanian Deadlift,hamstrings,4,legs
+45,Single Leg RDL,hamstrings,3,legs
+46,Good Morning,hamstrings,3,legs
+47,Reverse Lunge,hamstrings,3,legs
+48,Normal Lunge,hamstrings,3,legs
+49,Cutesy Lunge,hamstrings,2,legs
+50,Hamstring Curl,hamstrings,3,legs
+51,Back Extension,hamstrings,4,legs
+52,Cable Pull-Through,hamstrings,1,legs
+53,Barbell Front Squat,quads,5,legs
+54,Barbell Box Squat,quads,2,legs
+55,BOSU Ball Squat,quads,4,legs
+56,Weighted Jump Squat,quads,2,legs
+57,Box Jump,quads,2,legs
+58,Kettlebell Pistol Squat,quads,5,legs
+59,Goblet Alternating Lunge,quads,3,legs
+60,Dumbbell Reverse Lunge To Stepup,quads,4,legs
+61,Bulgarian Split Squat,quads,5,legs
+62,Weighted Lunge,quads,3,legs
+63,Leg Extension,quads,3,legs
+64,Leg Press,quads,4,legs
+65,Alternating Lateral Box Jumps,quads,3,legs
+66,High Pull,arms,2,push 
+67,Strict Press,arms,3,push 
+68,Push Press,arms,3,push 
+69,Push Jerk,arms,2,push 
+70,Barbell Overhead Press,arms,4,push 
+71,Seated Dumbbell Shoulder Press,arms,1,push 
+72,Front Raise,arms,2,push 
+73,Reverse Pec Deck Fly,arms,3,push 
+74,Bent Over Dumbbell Lateral Raise,arms,3,push 
+75,Dumbbell Lateral Raise,arms,3,push 
+76,Reverse Cable Crossover,arms,2,push 
+77,One-Arm Cable Lateral Raise,arms,3,push 
+78,Standing Barbell Shrug,arms,1,push 
+79,Cable Tricep Pushdown,arms,1,push
+80,Tricep Dip,arms,5,push
+81,Overhead Tricep Extension,arms,3,push
+82,Skull Crushers,arms,2,push
+83,Close Grip Bench Press,arms,2,push
+84,Diamond Push Up,arms,3,push
+85,Bench Dip,arms,2,push
+86,Classic Push Ups,arms,1,push
+87,One Arm Kettlebell Floor Press,arms,3,push

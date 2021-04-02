@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>SplitBook</title>
+		<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+    <!-- <link rel="stylesheet" href="../static/styles/style.css"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="{{ url_for('static', filename='images/logo.ico') }}">
+    <!-- <link rel="icon" href="../static/images/logo_inverted.ico"> -->
+  </head>
+  <body>
+
+      <div class="header container">
+          
+          <!-- Header -->
+					<header id="title" class="alt">
+						<div class="logo"><span><img src="{{ url_for('static', filename='images/logo-invert.png') }}"></span></div>
+					</header>
+
+				<!-- Banner -->
+					<section id="subtitle">
+						<div class="inner">
+							<h2>The Playbook For Your Workout</h2>
+						</div>
+          </section>
+
+      </div>
+
+      <div class="log-in container">
+
+        <!-- Sign-In -->
+        <section id="sign-in">
+          <div class="row justify-content-center">
+            <input type="text" name="" id="username" placeholder="username">
+          </div>
+          <div class="row justify-content-center">
+            <input type="password" name="" id="password" placeholder="password">
+          </div>
+        </section>
+
+        <!-- Button -->
+        <section id="button">
+          <a href="{{ url_for('home') }}">
+            <button type="button" class="btn btn-dark">LOG IN</button>
+          </a>
+        </section>
+        
+      </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/91fff59885.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
+  </body>
+
+</html>
